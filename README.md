@@ -59,5 +59,5 @@ This project is licensed under the terms of the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-- The project utilizes the Google Generative AI models for anime character chat and image recognition.
+- The project utilizes the Google Generative AI models for providing travel guide and image recognition.
 - Special thanks to the contributors of Streamlit for providing an excellent framework for building interactive web applications.
