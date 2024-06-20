@@ -2,6 +2,7 @@
 
 Welcome to **TravelVisionAI**, an interactive travel guide that leverages the power of Google Gemini for image recognition and Streamlit for a user-friendly interface. This project allows users to upload photos of landmarks or tourist spots and receive detailed information and recommendations.
 
+
 ## Features
 
 - Upload photos of landmarks or tourist spots
